@@ -1,0 +1,13 @@
+  .description{
+    background:#f8f8f6;
+    height:auto;
+    padding:20px 0 20px 0;
+  }
+  .team{
+    background:linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.5)),url("https://images.unsplash.com/photo-1556761175-b413da4baf72?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80");
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    height:auto;
+    padding:20px 0 20px 0;
+  }
